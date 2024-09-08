@@ -1,0 +1,15 @@
+Name of customer,Siddhanth MK
+Number of people travelling,5
+Duration of stay,5
+Destination,New York
+Transport,Cruise Ship
+Transportation Price,1000000
+Package type,Luxury base package
+Individual Package Price,225000
+Total Package Price,1125000
+Discount Type,Family
+Individual Discount,16000.0
+Total Discount,80000.0
+Final Travel Price after discount,920000.0
+Price for each individual,409000.0
+Total Price for whole trip,2045000.0
